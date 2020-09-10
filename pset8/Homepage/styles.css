@@ -1,0 +1,35 @@
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+}
+#ip2 {
+    border-radius: 20px;
+    border: 1px solid black;
+    padding: 20px; 
+    width: 500px;
+    height: 15px;    
+}
+.family {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+p {
+  border: 2px solid powderblue;
+  padding: 30px;
+}
+table{
+  border:  1px solid black;
+  border-collapse:collapse;
+}
+td{
+  border: 1px solid black;
+}
+.karan {
+  margin-left: auto;
+  margin-right: auto;
+  width:50%;
+}
